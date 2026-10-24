@@ -1,0 +1,19 @@
+Please follow these steps exactly to make the game work properly.
+
+First, I got to ask you if you extracted "remenos.zip" inside your /home directory, if you didn't , move it there!
+
+install the following dependencies : figlet (ascii text), espeak (voice)
+if the sound effects do not play, you probably are using pulseaudio instead of pipewire
+
+to make the game executable and be able start the game, please type in a terminal "sudo chmod +x ~/remenos/game.sh"
+
+after this, you should be able to start the game after typing ""~/remenos/game.sh" in any terminal.
+
+
+Then enjoy!
+
+You may modify the code as you please to enhance or upgrade the game, this is just something silly that I coded in my free time in under a few hours so don't expect it to be perfect.
+
+Thank you for reading!
+
+-- Gretagen ZETA, Midas of Technology
